@@ -42,7 +42,7 @@ To provide decision-makers with a centralized, interactive tool that gives a 360
   * Tree map of **Sales by Category & Sub-Category** to highlight top-performing products.
   * Donut chart of **Profit by Segment** to compare consumer, corporate, and home office contributions.
   * Line chart of **Sales by Year & Quarter** to track growth trends.
-  * 
+  * https://github.com/swarnim-b/Sales-Performance/blob/main/Sales%20and%20Profit.png
 
 * **Page 2:**
 
@@ -50,7 +50,7 @@ To provide decision-makers with a centralized, interactive tool that gives a 360
   * KPI cards for **Total Orders, Total Profit, Profit Margin %, and Total Sales**.
   * Horizontal bar chart of **Sales by Product Name & Ship Mode** to identify high-value products and preferred shipping methods.
   * Donut chart of **Sales by Profit Margin Category** to analyze high-margin vs low-margin sales share.
-  * 
+  * https://github.com/swarnim-b/Sales-Performance/blob/main/Regional%20and%20Product%20Performance%20Overview.png
 
 **Business impact & Insights**
 
